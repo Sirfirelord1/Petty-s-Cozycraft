@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "4.3.0",
+        "releasedAt": 209384093820, #https://currentmillis.com/
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://curseforge.com/minecraft/modpacks/pettys-cozycraft"
+            }
+        }
+        "updateType": "minor"
+    }
   ]
 }
